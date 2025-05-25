@@ -1,0 +1,581 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\JobFinderSystem.bundle.scp.css",
+      "PackagePath": "staticwebassets\\JobFinderSystem.eocqhbmba4.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\css\\animate.html",
+      "PackagePath": "staticwebassets\\css\\animate.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\css\\gijgo.css",
+      "PackagePath": "staticwebassets\\css\\gijgo.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\css\\images\\ui-icons_444444_256x240.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_444444_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\css\\images\\ui-icons_555555_256x240.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_555555_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\css\\images\\ui-icons_777620_256x240.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_777620_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\css\\images\\ui-icons_777777_256x240.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_777777_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\css\\images\\ui-icons_cc0000_256x240.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_cc0000_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\css\\images\\ui-icons_ffffff_256x240.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_ffffff_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\css\\owl.video.play.html",
+      "PackagePath": "staticwebassets\\css\\owl.video.play.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\css\\slick.html",
+      "PackagePath": "staticwebassets\\css\\slick.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\css\\slicknav.css",
+      "PackagePath": "staticwebassets\\css\\slicknav.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\css\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\fonts\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\fonts\\Flaticond41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\Flaticond41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\fonts\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\fonts\\gijgo-materialba15.eot",
+      "PackagePath": "staticwebassets\\fonts\\gijgo-materialba15.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\fonts\\gijgo-materialba15.svg",
+      "PackagePath": "staticwebassets\\fonts\\gijgo-materialba15.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\fonts\\gijgo-materialba15.ttf",
+      "PackagePath": "staticwebassets\\fonts\\gijgo-materialba15.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\fonts\\gijgo-materialba15.woff",
+      "PackagePath": "staticwebassets\\fonts\\gijgo-materialba15.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\fonts\\themify9f24.eot",
+      "PackagePath": "staticwebassets\\fonts\\themify9f24.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\fonts\\themify9f24.svg",
+      "PackagePath": "staticwebassets\\fonts\\themify9f24.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\fonts\\themify9f24.ttf",
+      "PackagePath": "staticwebassets\\fonts\\themify9f24.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\fonts\\themify9f24.woff",
+      "PackagePath": "staticwebassets\\fonts\\themify9f24.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\fonts\\themifyd41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\themifyd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\background-img\\bg-img-2.html",
+      "PackagePath": "staticwebassets\\img\\background-img\\bg-img-2.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\background-img\\bg-img-3.html",
+      "PackagePath": "staticwebassets\\img\\background-img\\bg-img-3.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\banner\\banner.png",
+      "PackagePath": "staticwebassets\\img\\banner\\banner.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\banner\\banner_2.html",
+      "PackagePath": "staticwebassets\\img\\banner\\banner_2.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\banner\\bradcam.png",
+      "PackagePath": "staticwebassets\\img\\banner\\bradcam.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\banner\\illustration.png",
+      "PackagePath": "staticwebassets\\img\\banner\\illustration.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\blog\\author.png",
+      "PackagePath": "staticwebassets\\img\\blog\\author.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\blog\\single_blog_1.png",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\blog\\single_blog_2.png",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\blog\\single_blog_3.png",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\blog\\single_blog_4.png",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\blog\\single_blog_5.png",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\candiateds\\1.png",
+      "PackagePath": "staticwebassets\\img\\candiateds\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\candiateds\\10.png",
+      "PackagePath": "staticwebassets\\img\\candiateds\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\candiateds\\2.png",
+      "PackagePath": "staticwebassets\\img\\candiateds\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\candiateds\\3.png",
+      "PackagePath": "staticwebassets\\img\\candiateds\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\candiateds\\4.png",
+      "PackagePath": "staticwebassets\\img\\candiateds\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\candiateds\\5.png",
+      "PackagePath": "staticwebassets\\img\\candiateds\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\candiateds\\6.png",
+      "PackagePath": "staticwebassets\\img\\candiateds\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\candiateds\\7.png",
+      "PackagePath": "staticwebassets\\img\\candiateds\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\candiateds\\8.png",
+      "PackagePath": "staticwebassets\\img\\candiateds\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\candiateds\\9.png",
+      "PackagePath": "staticwebassets\\img\\candiateds\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\comment\\comment_1.png",
+      "PackagePath": "staticwebassets\\img\\comment\\comment_1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\comment\\comment_2.png",
+      "PackagePath": "staticwebassets\\img\\comment\\comment_2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\comment\\comment_3.png",
+      "PackagePath": "staticwebassets\\img\\comment\\comment_3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\elements\\d.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\elements\\disabled-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\disabled-check.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\elements\\disabled-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\disabled-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\elements\\f1.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\elements\\f2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\elements\\f3.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\elements\\f4.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\elements\\f5.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\elements\\f6.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\elements\\f7.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\elements\\f8.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\elements\\g1.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\elements\\g2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\elements\\g3.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\elements\\g4.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\elements\\g5.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\elements\\g6.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\elements\\g7.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\elements\\g8.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\elements\\primary-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\primary-check.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\elements\\primary-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\primary-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\elements\\success-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\success-check.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\elements\\success-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\success-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\faq\\faq.png",
+      "PackagePath": "staticwebassets\\img\\faq\\faq.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\job\\1.png",
+      "PackagePath": "staticwebassets\\img\\job\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\post\\next.png",
+      "PackagePath": "staticwebassets\\img\\post\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\post\\post_1.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\post\\post_10.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_10.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\post\\post_2.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\post\\post_3.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\post\\post_4.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\post\\post_5.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\post\\post_6.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_6.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\post\\post_7.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_7.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\post\\post_8.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_8.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\post\\post_9.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_9.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\post\\preview.png",
+      "PackagePath": "staticwebassets\\img\\post\\preview.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\slider\\slider-img-1.html",
+      "PackagePath": "staticwebassets\\img\\slider\\slider-img-1.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\svg_icon\\1.svg",
+      "PackagePath": "staticwebassets\\img\\svg_icon\\1.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\svg_icon\\2.svg",
+      "PackagePath": "staticwebassets\\img\\svg_icon\\2.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\svg_icon\\3.svg",
+      "PackagePath": "staticwebassets\\img\\svg_icon\\3.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\svg_icon\\4.svg",
+      "PackagePath": "staticwebassets\\img\\svg_icon\\4.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\svg_icon\\5.svg",
+      "PackagePath": "staticwebassets\\img\\svg_icon\\5.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\img\\testmonial\\author.png",
+      "PackagePath": "staticwebassets\\img\\testmonial\\author.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\js\\ajax-form.js",
+      "PackagePath": "staticwebassets\\js\\ajax-form.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\js\\contact.js",
+      "PackagePath": "staticwebassets\\js\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\js\\gijgo.min.js",
+      "PackagePath": "staticwebassets\\js\\gijgo.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\js\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\js\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\js\\jquery.form.js",
+      "PackagePath": "staticwebassets\\js\\jquery.form.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\js\\jquery.slicknav.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slicknav.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\js\\mail-script.js",
+      "PackagePath": "staticwebassets\\js\\mail-script.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\js\\nice-select.min.js",
+      "PackagePath": "staticwebassets\\js\\nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\js\\range.js",
+      "PackagePath": "staticwebassets\\js\\range.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\js\\scrollIt.js",
+      "PackagePath": "staticwebassets\\js\\scrollIt.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\js\\vendor\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\js\\vendor\\modernizr-3.5.0.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\modernizr-3.5.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\JobFinderSystem\\JobFinderSystem\\wwwroot\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\js\\wow.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.JobFinderSystem.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.JobFinderSystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.JobFinderSystem.props",
+      "PackagePath": "build\\JobFinderSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.JobFinderSystem.props",
+      "PackagePath": "buildMultiTargeting\\JobFinderSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.JobFinderSystem.props",
+      "PackagePath": "buildTransitive\\JobFinderSystem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,122 @@
+﻿@{
+    ViewData["Title"] = "Post a Job";
+}
+
+<style>
+    .post-job-bg {
+        background: linear-gradient(135deg, #f8fafc 0%, #e3e9f7 100%);
+        min-height: 100vh;
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .post-job-card {
+        border: none;
+        border-radius: 18px;
+        box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.12);
+        background: #fff;
+        overflow: hidden;
+    }
+    .post-job-card .card-header {
+        background: linear-gradient(90deg, #007bff 0%, #0056b3 100%);
+        color: #fff;
+        border-bottom: none;
+        padding: 2rem 1.5rem;
+    }
+    .post-job-card .card-header h3 {
+        margin-bottom: 0;
+        font-weight: 700;
+        letter-spacing: 1px;
+    }
+    .post-job-card .form-label {
+        font-weight: 500;
+        color: #2d3a4a;
+    }
+    .post-job-card .form-control, .post-job-card .form-select {
+        border-radius: 8px;
+        border: 1px solid #e3e9f7;
+        background: #f8fafc;
+        font-size: 1rem;
+        transition: border-color 0.2s;
+    }
+    .post-job-card .form-control:focus, .post-job-card .form-select:focus {
+        border-color: #007bff;
+        background: #fff;
+        box-shadow: 0 0 0 0.15rem rgba(0,123,255,.15);
+    }
+    .post-job-card textarea.form-control {
+        min-height: 120px;
+        resize: vertical;
+    }
+    .post-job-card .btn-primary {
+        background: linear-gradient(90deg, #007bff 0%, #0056b3 100%);
+        border: none;
+        border-radius: 8px;
+        font-weight: 600;
+        letter-spacing: 1px;
+        padding: 0.75rem 0;
+        font-size: 1.1rem;
+        transition: background 0.2s;
+    }
+    .post-job-card .btn-primary:hover {
+        background: linear-gradient(90deg, #0056b3 0%, #007bff 100%);
+    }
+    .post-job-success {
+        color: #155724;
+        background: #d4edda;
+        border: 1px solid #c3e6cb;
+        border-radius: 6px;
+        padding: 10px 16px;
+        margin-bottom: 18px;
+        text-align: center;
+        font-size: 1rem;
+    }
+</style>
+
+<div class="post-job-bg">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-7 col-md-9">
+                <div class="card post-job-card">
+                    <div class="card-header text-center">
+                        <h3>Post a Job</h3>
+                    </div>
+                    <div class="card-body p-4">
+                        @if (ViewBag.SuccessMessage != null)
+                        {
+                            <div class="post-job-success">@ViewBag.SuccessMessage</div>
+                        }
+                        <form asp-action="Index" method="post" autocomplete="off">
+                            <div class="mb-3">
+                                <label for="title" class="form-label">Job Title</label>
+                                <input type="text" class="form-control" id="title" name="Title" placeholder="Enter job title" required />
+                            </div>
+                            <div class="mb-3">
+                                <label for="company" class="form-label">Company Name</label>
+                                <input type="text" class="form-control" id="company" name="Company" placeholder="Enter company name" required />
+                            </div>
+                            <div class="mb-3">
+                                <label for="location" class="form-label">Location</label>
+                                <input type="text" class="form-control" id="location" name="Location" placeholder="Enter location" required />
+                            </div>
+                            <div class="mb-3">
+                                <label for="type" class="form-label">Job Type</label>
+                                <select class="form-select" id="type" name="Type" required>
+                                    <option value="">Select type</option>
+                                    <option value="Full-Time">Full-Time</option>
+                                    <option value="Part-Time">Part-Time</option>
+                                    <option value="Contract">Contract</option>
+                                    <option value="Internship">Internship</option>
+                                </select>
+                            </div>
+                            <div class="mb-3">
+                                <label for="description" class="form-label">Job Description</label>
+                                <textarea class="form-control" id="description" name="Description" rows="5" placeholder="Describe the job" required></textarea>
+                            </div>
+                            <button type="submit" class="btn btn-primary w-100">Post Job</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
